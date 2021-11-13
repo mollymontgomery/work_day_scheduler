@@ -32,8 +32,8 @@ This is a work day calendar application that allows a user to save events for ea
 5. When you click the save button on the right the event is saved in local storage. And when the page is refreshed it saves the event. 
 
 # Demo
-![Demo1] (./assets/images/Demo1.png)<br>
-![Demo2] (./assets/images/Demo2.png)
+![Demo1](./assets/images/Demo1.png)<br>
+![Demo2](./assets/images/Demo2.png)
 
 # Deployed Site
 https://mollymontgomery.github.io/work_day_scheduler/
